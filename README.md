@@ -1,3 +1,11 @@
 # hello
 
-This repository is for practice. I am not sure what to say here. Lol bye.
+This repository has been made to __practice__ using Git and Github. I will also turn this in as PSet 1 in PSYCH 251.
+
+These are the commands I will be using:
+```
+git status
+git add -A
+git commit
+git push
+```
